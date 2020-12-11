@@ -1,0 +1,127 @@
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.csprojAssemblyReference.cache
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.Properties.Resources.resources
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.GenerateResource.cache
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.CoreCompileInputs.cache
+D:\QuanLi\QuanLi\bin\Debug\QuanLi.exe.config
+D:\QuanLi\QuanLi\bin\Debug\QuanLi.exe
+D:\QuanLi\QuanLi\bin\Debug\QuanLi.pdb
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.exe
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.pdb
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmLogin.resources
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmUser.resources
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmMain.resources
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmEmployee.resources
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmProduct.resources
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmIntro.resources
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmBill.resources
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmAdmin.resources
+D:\QuanLi\QuanLi\bin\Debug\BouncyCastle.Crypto.dll
+D:\QuanLi\QuanLi\bin\Debug\itextsharp.dll
+D:\QuanLi\QuanLi\bin\Debug\itextsharp.xml
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.CopyComplete
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmChangePass.resources
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmExportFIle.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\bin\Debug\QuanLi.exe.config
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\bin\Debug\QuanLi.exe
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\bin\Debug\QuanLi.pdb
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\bin\Debug\itextsharp.dll
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\bin\Debug\itextsharp.xml
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csprojAssemblyReference.cache
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmAdmin.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmBill.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmChangePass.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmIntro.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmEmployee.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmExportFIle.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmLogin.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmMain.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmUser.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmProduct.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.Properties.Resources.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.GenerateResource.cache
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.CoreCompileInputs.cache
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.CopyComplete
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.exe
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.pdb
+D:\QuanLi (1)\QuanLi\QuanLi\bin\Debug\QuanLi.exe.config
+D:\QuanLi (1)\QuanLi\QuanLi\bin\Debug\QuanLi.exe
+D:\QuanLi (1)\QuanLi\QuanLi\bin\Debug\QuanLi.pdb
+D:\QuanLi (1)\QuanLi\QuanLi\bin\Debug\BouncyCastle.Crypto.dll
+D:\QuanLi (1)\QuanLi\QuanLi\bin\Debug\itextsharp.dll
+D:\QuanLi (1)\QuanLi\QuanLi\bin\Debug\itextsharp.xml
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csprojAssemblyReference.cache
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmAdmin.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmBill.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmChangePass.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmIntro.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmEmployee.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmExportFIle.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmLogin.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmMain.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmUser.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmProduct.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.Properties.Resources.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.GenerateResource.cache
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.CoreCompileInputs.cache
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.CopyComplete
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.exe
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.pdb
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmInfoEm.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmTotalAll.resources
+D:\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmChangePassEmpl.resources
+D:\QuanLi\QuanLi\QuanLi\bin\Debug\QuanLi.exe.config
+D:\QuanLi\QuanLi\QuanLi\bin\Debug\QuanLi.exe
+D:\QuanLi\QuanLi\QuanLi\bin\Debug\QuanLi.pdb
+D:\QuanLi\QuanLi\QuanLi\bin\Debug\BouncyCastle.Crypto.dll
+D:\QuanLi\QuanLi\QuanLi\bin\Debug\itextsharp.dll
+D:\QuanLi\QuanLi\QuanLi\bin\Debug\itextsharp.xml
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.csprojAssemblyReference.cache
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmChangePassEmpl.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmAdmin.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmBill.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmChangePass.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmIntro.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmEmployee.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmExportFIle.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmInfoEm.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmLogin.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmMain.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmTotalAll.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmUser.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.frmProduct.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.Properties.Resources.resources
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.GenerateResource.cache
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.CoreCompileInputs.cache
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.CopyComplete
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.exe
+D:\QuanLi\QuanLi\QuanLi\obj\Debug\QuanLi.pdb
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\bin\Debug\QuanLi.exe.config
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\bin\Debug\QuanLi.exe
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\bin\Debug\QuanLi.pdb
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\bin\Debug\itextsharp.dll
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\bin\Debug\itextsharp.xml
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csprojAssemblyReference.cache
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmChangePassEmpl.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmAdmin.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmBill.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmChangePass.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmIntro.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmEmployee.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmExportFIle.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmInfoEm.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmLogin.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmMain.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmTotalAll.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmUser.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.frmProduct.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.Properties.Resources.resources
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.GenerateResource.cache
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.CoreCompileInputs.cache
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.csproj.CopyComplete
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.exe
+C:\Users\Phuong Vy\Downloads\QuanLi (1)\QuanLi (1)\QuanLi\QuanLi\obj\Debug\QuanLi.pdb
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmChangePassEmpl.resources
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmInfoEm.resources
+D:\QuanLi\QuanLi\obj\Debug\QuanLi.frmTotalAll.resources
